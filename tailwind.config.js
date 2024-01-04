@@ -1,8 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    './src/**/*.{js, jsx, ts, tsx}',
-    './src/*.{js, jsx, ts, tsx}',
+    './src/**/*.{js,jsx}',
+    './src/*.{js,jsx}',
     './src/components/PokeCard.jsx',
     './src/App.jsx',
     './index.html',
